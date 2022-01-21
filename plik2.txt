@@ -1,0 +1,2 @@
+ECHO is on.
+"tekst w pli9ku drugim" 
